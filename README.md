@@ -66,4 +66,4 @@ scikit-learn带有一些标准数据集，例如用于分类的虹膜和数字�
 
 加载数据集图2： 
     ![加载数据集图2： 
-](https://github.com/guoshijiang/scikit-learn/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180904173716.png"加载数据集图2：")
+](https://github.com/guoshijiang/scikit-learn/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180904173716.png "加载数据集图2：")

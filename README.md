@@ -287,7 +287,7 @@ scikit-learn估算器遵循某些规则，使其行为更具预测性。
 
     Y^(w, x) = w0 + w1x1 + ... + wpxp
        
-       
+ 在整个模块中，我们指定向量w =（w1，...，wp）as coef__和w0 as intercept_。      
        
        
        

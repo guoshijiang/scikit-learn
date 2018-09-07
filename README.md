@@ -288,13 +288,17 @@ scikit-learn估算器遵循某些规则，使其行为更具预测性。
     Y^(w, x) = w0 + w1x1 + ... + wpxp
        
  在整个模块中，我们指定向量w =（w1，...，wp）as coef__和w0 as intercept_。      
+
+##### 1.1.普通最小二乘
        
+LinearRegression拟合系数w =（W1，...，Wp）的线性模型，以最小化数据集中观察到的响应与线性近似预测的响应之间的残差平方和。 在数学上它解决了形式的问题：
        
+图1： 
+    ![图1： 
+](https://github.com/guoshijiang/scikit-learn/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180907100117.png "图1：")
        
-       
-       
-       
-       
+
+
        
        
        
